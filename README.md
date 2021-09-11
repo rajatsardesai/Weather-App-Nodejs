@@ -5,7 +5,7 @@ Hello, this project was inspired by [Thapa Technical](https://www.youtube.com/ch
 **Project Installation**
 
 - `npm install nodemon`
-- `node index.js` or `nodemon index.js
+- `node index.js` or `nodemon index.js`
 
 **Tools and libraries**
 
