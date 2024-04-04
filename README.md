@@ -5,6 +5,8 @@ This project is a complete weather website built using HTML and Node.js, integra
 
 [Link to project video](https://www.youtube.com/watch?v=Fx9ciSsjDsc&list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8&index=23)
 
+![weatherapp](https://github.com/rajatsardesai/Weather-App-Nodejs/assets/29860438/e52ecc7f-1499-4b21-8906-ef8275171abb)
+
 ## Project Installation
 
 To install and run the project, follow these steps:
